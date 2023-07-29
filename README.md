@@ -1,6 +1,10 @@
 # Joint action and pose estimation
 ## Action recognition using pose estimation
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mithunprb/Joint-action-n-pose-estimation/blob/main/Action_recognition_using_pose_estimation.ipynb)
+
+[![Open In Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/code/mithunparab/notebookf5597daf67)
+
 #### Aim of this project is to automatically recognize human actions based on analysis of the body landmarks using pose estimation.
 
 1. Implementation of CNN based Pose Estimation model
@@ -10,6 +14,9 @@
 3. Action Recognition in videos
 
 4. Testing your model on the evaluation dataset
+
+ - **Project 2 Question:**  [Final_project2_question.pdf](./Final_project2_question.pdf)
+ - **Jupyter noteboook:** [Action_recognition_using_pose_estimation.ipynb](Action_recognition_using_pose_estimation.ipynb)
  ## Requirements
  
  ```bash
