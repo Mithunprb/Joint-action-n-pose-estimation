@@ -17,6 +17,12 @@
 
  - **Project 2 Question:**  [Final_project2_question.pdf](./Final_project2_question.pdf)
  - **Jupyter noteboook:** [Action_recognition_using_pose_estimation.ipynb](Action_recognition_using_pose_estimation.ipynb)
+
+<div align="center" style=display: flex; justify-content: center; align-items: center;">
+ <img src="joint-pose-n-action.png">
+</div>
+
+
  ## Requirements
  
  ```bash
