@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mithunprb/Joint-action-n-pose-estimation/blob/main/Action_recognition_using_pose_estimation.ipynb)
 
-[![Open In Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/code/mithunparab/notebookf5597daf67)
+[![Open In Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/mithunparab/joint-action-n-pose)
 
 #### Aim of this project is to automatically recognize human actions based on analysis of the body landmarks using pose estimation.
 
